@@ -1,0 +1,14 @@
+How hungry are you? 
+
+This application works best if used natively in Visual Studio. Press run or F5 to begin
+
+Peckish returns a side dish
+Hungry returns a main
+Starved returns a main and a side dish
+
+Type one of the above in and press enter
+
+There is a glitch where trying to change your answer will result in the program looping and returning the same items several times.
+I didn't fix it because honestly, I found it amusing.
+
+Have Fun!
